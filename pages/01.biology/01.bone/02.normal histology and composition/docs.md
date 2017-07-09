@@ -1,5 +1,5 @@
 ---
-title: 'Bone Formation 2'
+title: 'Normal Histology and Composition'
 taxonomy:
     category:
         - docs
