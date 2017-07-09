@@ -1,5 +1,6 @@
 ---
 title: 'Setup Guide'
+published: false
 hide_git_repo_link: true
 ---
 
