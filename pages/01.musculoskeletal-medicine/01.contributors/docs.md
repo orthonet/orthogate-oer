@@ -1,5 +1,9 @@
 ---
 title: Contributors
+published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 ### Jaimo Ahn, MD, PhD
