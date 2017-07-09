@@ -1,5 +1,8 @@
 ---
 title: 'Growth Plate Anatomy and Function'
+taxonomy:
+    category:
+        - docs
 ---
 
 At the physis, chondrocytes proliferate, mature, and secrete extracellular matrix, which eventually ossifies. The physis is polar: moving away from the epiphysis and joint surface toward the metaphysis, there is increasing maturation of the cells. Just below the epiphysis is a zone of immature resting cells; just above the metaphysis, calcification takes place in the setting of programmed cell death (apoptosis) of the hypertrophic chondrocytes. New bone formation thus occurs at the point farthest from the articular surface, at the junction between the physis and the metaphysis. This region is named the zone of provisional calcification. The physis itself is divided into three major zones: the reserve zone, the proliferative zone, and the hypertrophic zone (Fig. 3). ![](MM-01-001-fig03.png "Figure 3. The zones of the growth plate. Note that the epiphysis is above the reserve zone and the metaphysis is below the hypertrophic zone. Reproduced with permission from Brighton CT: Structure and function of the growth plate.
