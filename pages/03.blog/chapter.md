@@ -1,6 +1,6 @@
 ---
 title: Blog
-hide_git_repo_link: true
+published: false
 sitemap:
     changefreq: monthly
 external_links:
@@ -9,6 +9,7 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
+hide_git_repo_link: true
 content:
     items: '@self.children'
     leading: 0
@@ -25,6 +26,5 @@ feed:
     description: 'Sample Blog Description'
     limit: 10
 pagination: true
-child_type: blog_item
 ---
 
