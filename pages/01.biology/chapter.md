@@ -3,7 +3,7 @@ title: Biology
 taxonomy:
     category:
         - docs
-child_type: docs
+child_type: chapter
 ---
 
 ### Section 1
