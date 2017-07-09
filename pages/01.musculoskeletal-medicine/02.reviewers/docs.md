@@ -1,6 +1,9 @@
 ---
 title: Reviewers
 published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 ### Edward Abraham, MD
