@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Bone
 taxonomy:
     category:
         - docs
