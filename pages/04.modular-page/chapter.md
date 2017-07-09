@@ -5,7 +5,7 @@ content:
     order:
         by: default
         dir: asc
-hide_git_repo_link: false
+published: false
 external_links:
     process: true
     title: false
@@ -13,6 +13,7 @@ external_links:
     target: _blank
     mode: active
 body_classes: 'modular header-image fullwidth'
+hide_git_repo_link: false
 onpage_menu: true
 ---
 
