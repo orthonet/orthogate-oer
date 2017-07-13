@@ -3,6 +3,7 @@ title: 'Musculoskeletal Medicine'
 taxonomy:
     category:
         - home
+        - docs
 ---
 
 ![](mskmedicine_frontpage.JPG)
